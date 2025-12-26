@@ -12,6 +12,17 @@ Der **Seubert Assistent Pro** ist eine spezialisierte iOS-App für die moderne G
 **Lösung:** Eine native iOS-App, die Informationen unmittelbar dort verfügbar macht, wo sie gebraucht werden: **direkt am Produkt.**
 
 ---
+🛡️ Datenschutz & Betriebssicherheit
+
+Der Seubert Assistent Pro wurde nach dem Prinzip "Privacy by Design" entwickelt, um den hohen Anforderungen in professionellen Küchenumgebungen gerecht zu werden:
+
+Lokale Datenverarbeitung: Die Identifizierung von Produkten und das Auslesen von Kerntemperaturen oder Allergenen erfolgt über eine lokale Datenbank (CSV). Es werden keine sensiblen Betriebsdaten über das Sortiment an externe Cloud-Server übermittelt.
+
+On-Device OCR: Die Texterkennung findet in Echtzeit direkt auf dem Endgerät statt. Fotos von Etiketten oder Speisekarten werden lokal analysiert und nicht dauerhaft gespeichert oder in eine Cloud hochgeladen.
+
+Anonyme API-Abfragen: Bei der Nutzung der Barcode-Suche (OpenFoodFacts) werden lediglich technische Produkt-IDs (EAN) übertragen. Es findet keine Erfassung von personenbezogenen Daten oder Nutzerprofilen statt.
+
+Revisionssicherheit: Die App unterstützt die HACCP-Vorgaben durch verlässliche, herstellergeprüfte Datenquellen, ohne die digitale Souveränität des Betriebes zu gefährden.
 
 ## 🌟 Key Features
 
