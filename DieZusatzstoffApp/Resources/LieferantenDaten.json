@@ -1,0 +1,214 @@
+[
+  {
+    "id": "1001",
+    "name": "Fischstäbchen",
+    "keywords": ["Fisch", "Panade"],
+    "allergenCodes": ["a", "f"],
+    "additiveCodes": [1, 3],
+    "supplier": "Seubert"
+  }
+
+  {
+    "id": "36020",
+    "name": "Strohschwein Cevapcici",
+    "keywords": ["Cevapcici", "Strohschwein", "würzig"],
+    "allergenCodes": [],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41381",
+    "name": "Cevapcici vom Almweide-Rind",
+    "keywords": ["Cevapcici", "Rind", "Balkan"],
+    "allergenCodes": ["h", "i"],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41478",
+    "name": "Kalbfleischpflanzerl",
+    "keywords": ["Fleischpflanzerl", "Kalb", "Frikadelle"],
+    "allergenCodes": ["a", "c1"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41485",
+    "name": "Party-Kalbsfrikadelle",
+    "keywords": ["Frikadelle", "Kalb", "Party"],
+    "allergenCodes": ["a", "c1"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41536",
+    "name": "Cocktail Kalbfleisch-Piccolini",
+    "keywords": ["Piccolini", "Kalb", "Mini"],
+    "allergenCodes": ["a", "c1"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "42113",
+    "name": "Bifteki von Rinderhack",
+    "keywords": ["Bifteki", "Rind", "Griechisch"],
+    "allergenCodes": ["b"],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41545",
+    "name": "Mini-Geflügelfrikadelle",
+    "keywords": ["Geflügel", "Frikadelle", "Hähnchen"],
+    "allergenCodes": ["a", "c1"],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41544",
+    "name": "Geflügelpatty in Pankopanade",
+    "keywords": ["Burger", "Patty", "Panko", "Geflügel"],
+    "allergenCodes": ["c1"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  }
+
+  {
+    "id": "19510",
+    "name": "Crespelle nach italienischer Art",
+    "keywords": ["Crespelle", "Pfannkuchen", "italienisch"],
+    "allergenCodes": ["a", "b", "c1"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "19020",
+    "name": "Zucchini-Schiffchen mit Brie",
+    "keywords": ["Zucchini", "Brie", "vegetarisch"],
+    "allergenCodes": ["b"],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "43053",
+    "name": "Quiche Lorraine (Speck)",
+    "keywords": ["Quiche", "Lorraine", "Speck"],
+    "allergenCodes": ["a", "b", "c1"],
+    "additiveCodes": [1, 13],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "18028",
+    "name": "Lachs im Blätterteig",
+    "keywords": ["Lachs", "Blätterteig", "Fisch"],
+    "allergenCodes": ["a", "c1", "f"],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "42706",
+    "name": "Piccata vom Seelachs",
+    "keywords": ["Piccata", "Seelachs", "Fisch"],
+    "allergenCodes": ["a", "b", "f"],
+    "additiveCodes": [4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "22030",
+    "name": "Schokoladen-Soufflé",
+    "keywords": ["Soufflé", "Schokolade", "Dessert"],
+    "allergenCodes": ["a", "b", "g"],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "22300",
+    "name": "Joghurt-Limettenmousse",
+    "keywords": ["Mousse", "Joghurt", "Limette"],
+    "allergenCodes": ["b"],
+    "additiveCodes": [1, 5],
+    "supplier": "Seubert"
+  }
+]
+[
+  {
+    "id": "41658",
+    "name": "Mini-Schweinsroulade Badische Art",
+    "keywords": ["Roulade", "Wirsing", "Speck", "Schwein"],
+    "allergenCodes": ["h", "i"],
+    "additiveCodes": [1, 13],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "12085",
+    "name": "Münchner Schweineschnitzel",
+    "keywords": ["Schnitzel", "Meerrettich", "Senf", "paniert"],
+    "allergenCodes": ["a", "c1", "i"],
+    "additiveCodes": [1],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "41621",
+    "name": "Cordon Bleu vom Schweinerücken",
+    "keywords": ["Cordon Bleu", "Schinken", "Käse", "paniert"],
+    "allergenCodes": ["a", "b", "c1"],
+    "additiveCodes": [1, 13],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "15315",
+    "name": "Wiener Schnitzel (Kalb)",
+    "keywords": ["Wiener Schnitzel", "Kalb", "paniert"],
+    "allergenCodes": ["a", "c1"],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "28085",
+    "name": "Hähnchengyros",
+    "keywords": ["Gyros", "Hähnchen", "gegart", "gewürzt"],
+    "allergenCodes": [],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "29200",
+    "name": "Hähnchenbrust Piccata",
+    "keywords": ["Piccata", "Hähnchen", "Ei-Käsehülle"],
+    "allergenCodes": ["a", "b"],
+    "additiveCodes": [1, 4],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "19075",
+    "name": "Bratling Zucchini Rote Linsen",
+    "keywords": ["Bratling", "Zucchini", "Linsen", "vegan"],
+    "allergenCodes": [],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "19024",
+    "name": "Spinattasche mit Pinienkernen",
+    "keywords": ["Spinattasche", "Blätterteig", "Hirtenkäse", "vegetarisch"],
+    "allergenCodes": ["b", "c1", "e2"],
+    "additiveCodes": [],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "18115",
+    "name": "Saltimbocca von der Forelle",
+    "keywords": ["Saltimbocca", "Forelle", "Schinken", "Fisch"],
+    "allergenCodes": ["f"],
+    "additiveCodes": [13],
+    "supplier": "Seubert"
+  },
+  {
+    "id": "22165",
+    "name": "Flying sweet Lollies",
+    "keywords": ["Lollies", "Schokolade", "Dessert", "süß"],
+    "allergenCodes": ["b", "g"],
+    "additiveCodes": [1, 5],
+    "supplier": "Seubert"
+  }
+]
