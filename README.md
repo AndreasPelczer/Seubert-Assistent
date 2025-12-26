@@ -1,4 +1,7 @@
 # 👨‍🍳 Seubert Assistent Pro
+
+## „Der Seubert Assistent macht Schluss mit dem Rätselraten bei Allergenen und Temperaturen. Er bringt die Digitalisierung genau dahin, wo sie hingehört: An den Mitarbeiter, den Herd, das Buffet.., direkt zum Produkt für den Gast.“
+
 ### Digitale Effizienz & Sicherheit in der Profi-Küche
 
 Der **Seubert Assistent Pro** ist eine spezialisierte iOS-App für die moderne Gastronomie. Er fungiert als digitale Schnittstelle zwischen physischen Produkten und kritischen Zubereitungsinformationen. Durch den Einsatz von OCR-Technologie (Texterkennung) und einer intelligenten Hybrid-Datenbank ermöglicht die App den sofortigen Zugriff auf Garzeiten, Temperaturen und Allergen-Informationen direkt am Einsatzort.
@@ -99,10 +102,24 @@ Dynamische Volltextsuche nach Artikelnummern oder Namen, die sich bereits währe
 
 ---
 
-## 🔮 Roadmap
-- [ ] **Cloud-CMS:** Anbindung an eine Echtzeit-Datenbank zur Pflege der CSV.
-- [ ] **Voice-Assistant:** Sprachausgabe der Zubereitungsschritte (Hands-free Modus).
-- [ ] **HACCP-Export:** PDF-Generierung für die Dokumentation per Klick.
+Roadmap / Ausblick
+
+1.  ** Cloud-CMS Integration: Anbindung an eine Echtzeit-Datenbank zur zentralen Pflege und Synchronisierung der Produktdaten (CSV 2.0).
+2.  ** Smart Inventory & Storage: - Schnittstelle zu Lagersystemen zur Anzeige von Lagerort, Regalnummer und Stellplatz.
+3.  ** „Wo finde ich was?“-Funktion direkt nach dem Scan oder der Suche.
+4.  ** Intelligentes Aufgaben-Management:
+
+Anbindung an To-Do-Listen für Köche (z.B. Mise-en-Place-Listen).
+
+Automatische Erstellung von Aufgaben basierend auf gescannten Produkten (z.B. „Hähnchenbrust auftauen“).
+
+5. ** Inter-App-Kommunikation: - Interaktion mit Logistik- und Navigations-Apps für Wegbeschreibungen innerhalb von Großlagern oder Lieferrouten.
+
+Export-Schnittstellen zu gängigen Gastro-Management-Systemen.
+
+6. ** Voice-Assistant Pro: Sprachausgabe der Zubereitungsschritte für echtes Hands-free Arbeiten in der aktiven Produktion.
+
+7. **Digitales HACCP-Protokoll: Automatisierte PDF-Generierung der Kerntemperatur-Messungen zur rechtssicheren Dokumentation per Klick.
 
 ---
 *Entwickelt für die moderne Gastronomie. Effizient. Sicher. Seubert.*
