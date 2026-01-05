@@ -1,5 +1,680 @@
-id;name;category;allergenCodes;additiveCodes;supplier;cookingInstruction
-41075;Cube von Thunfischmousse;appetizer;D,G;;Seubert;Auftauen und bei ca. 8°C kalt servieren.
+91748;Hähnchen Knusperpanade;Müsli;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91750;Joghurt mit Frucht;Joghurt;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91756;Haselnusspudding;Pudding;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91762;Schokopudding;Pudding;F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91773;Bourbon Vanilleeis;Eis;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91781;Joghurt Panna Cotta mit Walnuss;Cremes;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91785;Zwetschgenkuchen;Kuchen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91791;Zupfkuchen / Schoko Cheesecake;Kuchen;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91804;Baklava;Gebäck;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91812;Marillenknödel;Gebäck;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91816;"Kalbstafelspitz ""Frankfurt"" grüne Soße";Hauptspeise;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91822;Kaiserschmarrn;Süßspeise;A,C,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91834;Schlagsahne;Topping;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91842;Veganer Zitronen-Nuss-Kuchen;Kuchen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91859;Vegane Muffin Duett;Süßspeise;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91880;Mango Chili Dressing;Sauce;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91642;Spanischer Mandelkuchen;Kuchen;A,C,F,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91645;Erdbeer- Joghurt mit Schokostreusel;Joghurt;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91648;Rote Grütze;Kompott;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91649;Milchreis;Kompott;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91655;Mousse au chocolat vegan;Dessert;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91658;Orangen-Panna Cotta;Dessert;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91667;Laugenbrezel Laktosefrei + Glutenfrei;Pausen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91673;Erdbeersorbet_ VEGAN;Eis;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91683;Holunder-Prosecco-Mousse;Mousse;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91690;Apfelstrudel mit Vanillesauce;Kuchen;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91694;Kaiserschmarrn mit Vanillesauce;Dessert;A,C,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91706;Fish and Chips (vegan);Lunch;F,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91719;Mango Lassi _ Indische Art;Getränk;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91725;Kirsch-Nougat-Schnitte;Kuchen;A,C,F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91741;Bircher Müsli;Müsli;A,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91540;Romanesco und grünem Spargel;Fingerfood;H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91541;Zweierlei von der Kirsche mit Knallbrause;Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91542;Eclairs;Mini-Gebäck Mix;A,C,F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91543;Amerikaner;Mini-Gebäck Mix;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91544;Mini-Cupcakes;Mini-Gebäck Mix;A,C,E,F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91545;Windbeutel;Mini-Gebäck Mix;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91549;Flammküchle Apfel-Zimt;Fertigprodukte;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91550;Rhabarber-Erdbeer Schnitte;Kuchen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91551;Bananen Johannisbeer Schnitte (vegan);Kuchen;A,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91552;Kirschenmichel Schnitte;Kuchen;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91553;VEGANE Zitronenschnitte;Kuchen;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91554;Donauwelle;Kuchen;A,C,F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91558;Buttercroissants natur;Croissant;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91561;Himbeer Brownies glutenfrei;Kuchen;C,F,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91562;Vegane Muffin Duett;Gebäck;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91573;Creme Brulée;Dessert;F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91586;Tiramisu;Dessert;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91595;Kaffeegebäck;Gebäck;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91599;Grießbrei / Grießpudding;Pudding;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91603;Vollmilchmousse mit Passionsfruchtkern;Mousse;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91607;Mini Cheesecake;Gebäck;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91612;Himbeereis;Eis;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91621;Apfelstrudel;Kuchen;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91635;Latte-Macchiato-Schnitte;Kuchen;A,C,F,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91639;Orangen-Schokoladen-Cheesecake;Kuchen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91337;Buntbarsch auf Mittelmeergemüse;Lunchbufett 2;D,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91341;Schokoladenmousse;Lunchbufett 3;A,C,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91350;Schweine-Nackensteak mit Grillmarinade;Dinnerbufett 1;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91360;Kräutersaitlinge & Zuckerschoten in Kohlrabirahm;Pokebowls;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91365;Perlhuhnbrust mit Steinpilzfüllung;Menü 1;A,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91382;Medaillons von Angus Filet;Menü 4;A,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91418;Zanderfilet auf der Haut gebraten;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91439;Geschmorter Rinderbraten in Calvadosjus;Pokebowls;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91450;Rahmwirsing;Gemüse;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91460;Mit Bulgur gefüllte Paprikaschote;Pokebowls;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91484;Pinsa Verdure e Formaggio di Capra;Pokebowls;A,C,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91492;Gebratener Winterkabeljau;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91515;Äppel Dipper (moderner Apfelkuchen);Fingerfood;A,C,F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91519;Frankfurter Stripes (Kranz modern);Fingerfood;A,C,F,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91524;Kokos-Mango-Cube;Fingerfood;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91531;Schöne Bescherung (Haselnusscreme);Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91129;Spargel-Pastrami Spieß mit Schmand;Gemüse;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91131;Burrito vegetarisch;Pokebowls;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91133;Orecchiette Salat;Fertigprodukte;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91145;Mini Pizza Salami;Fertigprodukte;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91152;Veganer Vulcano;Fertigprodukte;A,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91157;Pinsa Margherita di Bufala;Fertigprodukte;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91160;Mini Quiche Kürbis Speck;Quiche;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91164;Mini Quiche Lorraine;Quiche;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91165;Mini Quiche Spinat Feta;Quiche;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91179;Crespelle mit Ricotta;Fertigprodukte;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91191;Rotes Thai Curry mit Wok Gemüse;Pokebowls;A,F,G,I,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91201;Süßkartoffel-Shiitake Quiche;Quiche;A,C,F,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91203;Lasagne Bolognese (Rind);Fertigprodukte;A,C,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91204;Linsenlasagne __ Vegan;Fertigprodukte;A,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91211;Lachswürfel in Rieslingsauce;Fertigprodukte;A,D,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91232;Gemüsestrudel, vegan;Fertigprodukte;A,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91237;Fish and Chips;Fertigprodukte;A,C,D,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91250;Gemüsepfanne italienisch;Fertigprodukte;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91258;Buntbarsch;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91278;Kohlrouladen;Gemüse;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91298;Asiatisches Wok Gemüse;Gemüse;A,F,I,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91313;Scampispieß / Garnelenspieß;Fisch;B;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91321;Thunfisch im Sesam Mantel;Fisch;D,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91325;Zanderfilet;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90872;Saltimbocca v. Kalb;Fleisch;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90881;Spare Ribs;Fleisch;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90891;Wildschweingulasch;Fleisch;A,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90895;Barolo- Schalotten Jus;Sauce;A,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90902;Burgundersauce;Sauce;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90904;Brioche Burger Bun;Burger;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90910;Bolognese Sauce (Rind);Sauce;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90927;Kapernsauce;Sauce;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90945;Portweinsauce;Sauce;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90950;Rahmsauce;Sauce;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90964;Sauce Hollandaise;Sauce;C,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90971;Thai Kokos Curry Sauce;Sauce;A,F,G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91000;"Gemüsepatty ""Incredible""";Burger;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91003;Apfelrotkohl;Gemüse;I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91011;Rahmspinat;Gemüse;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91023;Brezen-Serviettenknödel;Beilagen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91028;Butterspätzle;Beilagen;A,C;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91045;Gnocchi,Kartoffel-;Beilagen;A,C;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91062;Kartoffel Wedges;Beilagen;A,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91081;Parmesanrisotto;Beilagen;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91095;Salzkartoffeln;Beilagen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91098;Semmelknödel;Beilagen;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+91110;Trüffelnudeln;Beilagen;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90667;Vanillecreme VEGAN;Suppe;G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90669;Karotten Fenchel Suppe;Suppe;G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90671;Kartoffel- Currysuppe vegan;Suppe;F,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90673;Kartoffelcremesuppe _ Vegan und Glutenfrei;Suppe;F,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90677;Kürbiscremesuppe;Suppe;G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90681;Kürbis-Kokos-Limettensuppe;Suppe;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90684;Maronencremesuppe mit Walnüssen;Suppe;A,G,H,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90687;Minestrone;Suppe;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90690;Petersilienwurzelsüppchen mit Croutons;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90693;Spargelcremesuppe mit Schnittlauch;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90695;Steinpilzcremesuppe;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90699;Tom Ka Gai;Suppe;G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90700;Tomatencremesuppe Toskana;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90708;Chili Sin Carne;Eintopf;A,F,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90710;Erbseneintopf;Eintopf;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90712;Gaisburger Marsch;Eintopf;A,C,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90718;Linseneintopf mit Spätzle;Eintopf;A,C,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90725;Toskanischer Gemüseeintopf;Eintopf;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90728;Wildschmortopf mit Kürbis;Eintopf;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90733;Bayrischer Leberkäse;Fleisch;G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90744;Frankfurter Würstchen;Fleisch;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90752;Hühnerbrust im Eier- Parmesanmantel;Fleisch;A,C,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90760;Hähnchenragout mit Pilzen;Fleisch;A,F,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90776;Hühnerfrikassee;Fleisch;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90781;Kalbsrahmgulasch;Fleisch;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90785;Kalbsbulette;Fleisch;A,C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90789;Kalbsschnitzel;Fleisch;A,C;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90800;Lammragout mit Artischocken;Fleisch;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90806;Picatta von der Putenbrust;Fleisch;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90812;Putenschnitzel;Fleisch;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90816;Putengeschnetzeltes;Fleisch;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90826;Roastbeefgeschnetzeltes;Fleisch;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90847;Rindergulasch;Fleisch;A,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90849;Rinderfrikadelle;Fleisch;A,C;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90851;Rinderrückenstreifen mit Pilzen;Fleisch;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90863;Rindergeschnetzeltes Stroganoff;Fleisch;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90864;Rinderrouladen;Fleisch;A,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90870;Roastbeef mit Kräuter-Senfkruste;Fleisch;A,C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90455;Warn;Baguette;A,G,H,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90456;Bagel Gekochter Schinken, Gewürzgurke;Baguette;A,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90457;Harissa und Sesam - Creme;Brötchen;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90459;Brötchen (Weizen, Roggen, Mehrkorn);Brötchen;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90460;Mini Quiche Zwiebel - Tomate;Gremolata;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90461;Rustico Portobello Funghi;Gremolata;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90462;Würstchen _ HOT DOG _ alle Sorten;Gremolata;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90463;Würstchen _ HOT DOG _VEGAN;Gremolata;A,G,H,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90465;Gransole Piselli Menta ( Erbse-Minze);Gremolata;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90467;Tortellini Fleisch / Tricolore;Gremolata;A,G,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90468;Zimtschnecken _ alle Sorten;Gremolata;A,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90469;Glutenfreie Brötchen Edna;Gremolata;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90470;Hot Dog Brötchen_alle Sorten;Gremolata;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90471;Hot Dog _ Brezel - Brioche;Gremolata;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90473;Menü 3 Gang;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90474;Brötchen mit Camembert;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90475;Brötchen mit Emmentaler;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90476;Süßkartoffelsuppe vegan;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90477;Baguetteschnitte mit Hummus;Brötchen;A,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90478;Riesling Fischtopf;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90479;Brötchen mit Gouda;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90481;Backfisch _ alle Sorten;Brötchen;A,G,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90483;Zwero Wheat Brötchen;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90484;Brötchen mit Putenbrust;Brötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90486;Brötchen mit Roastbeef;Brötchen;A,C,G,I,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90489;Brötchen mit Tomate-Mozzarella/Pesto;Brötchen;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90490;Baguetteschnitte mit Kräuter Frischkäse;Brötchen;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90491;Brötchen mit Schinken;Partybrötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90497;Party Brötchen mit Putenbrust;Partybrötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90498;Party Brötchen mit Bergkäse;Partybrötchen;A,D,G,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90499;Party Brötchen mit Serranoschinken;Partybrötchen;A,C,G,I,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90500;Brötchen mit Bergkäse;Partybrötchen;A,G,H,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90502;Brötchen mit Grillgemüse, vegan;Partybrötchen;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90504;Party Brötchen mit Mailänder Salami;Partybrötchen;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90505;Baguetteschnitte mit Räucherlachs;Partybrötchen;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90506;Krustenbrot_Brotauswahl;Krustenbrot;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90507;Krustenbrot Bergkäse;Krustenbrot;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90508;Krustenbrot Camembert;Krustenbrot;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90509;Krustenbrot Hummus;Krustenbrot;A,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90510;Krustenbrot_Frischkäse;Krustenbrot;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90513;Krustenbrot Schinken_Cornichons;Krustenbrot;A,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90515;Krustenbrot Serranoschinken;Krustenbrot;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90518;Krustenbrot_Spundekäs;Krustenbrot;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90521;Brötchen mit veganem Käse;Krustenbrot;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90522;Fladenbrot;Brot;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90524;Brot, glutenfrei mit Sesam;Brot;F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90526;Brot, glutenfrei;Brot;F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90527;Pitabrot;Brot;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90529;Currycreme;Aufstrich;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90531;Kräuterschmand;Aufstrich;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90533;Kräuterquark / Sour cream;Aufstrich;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90534;Limonenschmand;Aufstrich;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90535;Meerrettichcreme;Aufstrich;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90537;Obazda;Aufstrich;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90539;Radieschenfrischkäse;Aufstrich;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90541;Spundekäs und Rosenpaprika;Aufstrich;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90543;Wasabicreme;Aufstrich;G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90544;Chutney Apfel;Chutney;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90549;Chutney Mango;Chutney;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90551;Tomate-Mozzarella-Rucola;Foccacia;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90555;Wrap Schafskäsecreme mit Rucola;Wraps;A,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90558;Mini-Croissant mit Frischkäse;Croissant;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90560;Paprika Chips;Knabbergebäck;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90561;Creme fraiche;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90563;Foccacia mit medi. Frischkäse;Foccacia;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90565;Foccacia, Salami, getr. Tomate;Foccacia;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90566;Foccacia, Serrano;Foccacia;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90569;Bio Panini "Vital";Panini;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90571;Panini gegr. Gemüse;Panini;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90572;Panini Parmaschinken;Panini;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90574;Panini mit Hähnchen und Rucola;Panini;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90576;Panini Camembert und Walnüssen;Panini;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90580;Panini Tomate- Mozzarella;Panini;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90581;Panini Salami;Panini;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90582;Sandwich Käse;Sandwich;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90584;Sandwich Putenbrust;Sandwich;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90585;Sandwich Räucherlachs;Sandwich;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90590;Sandwich Thunfisch;Sandwich;A,D,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90591;Sandwich Tomate Mozzarella;Sandwich;A,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90593;Senf;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90594;Ketchup;Dip;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90596;Apfel-Sahnemeerrettich;Dip;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90604;Backpflaume im Speckmantel;Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90606;Empanadas Geflügel;Fingerfood;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90607;Empanadas Spinat;Fingerfood;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90608;Empanadas Rind;Fingerfood;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90610;Hähncheninnenfilet Barbecuesauce;Fingerfood;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90611;Hähnchenspieß Yakitori;Fingerfood;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90612;Forellenstrudel;Fingerfood;A,C,D,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90616;Lollipop Garnele;Fingerfood;B;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90618;Teufelsbällchen vom Rind;Fingerfood;A,C,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90620;Party Kalbfleischfrikadelle;Fingerfood;A,C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90621;Partyfrikadelle vom Rind;Fingerfood;A,C,G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90623;Partyschnitzel;Fingerfood;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90625;Samosas, vegetarisch;Fingerfood;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90626;Shrimp in Reisnudelpanade;Fingerfood;A,B,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90629;Mini Schweineschnitzel;Fingerfood;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90630;Flammküchle Elsässer Art;Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90635;Vegane Samosa;Fingerfood;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90637;Vegane Mini-Frühlingsrolle;Fingerfood;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90640;Yakitorispieß Soja;Fingerfood;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90642;Zwiebel Bahji_Bhaji;Fingerfood;A,F,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90645;Pulled Vegan;Fingerfood;A,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90646;Spinat-Feta Strudel;Fingerfood;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90649;Apfel- Currysuppe;Suppe;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90650;Bärlauchcremesuppe;Suppe;A,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90653;Champignoncremesuppe;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90654;Curry Linsensuppe;Suppe;A,F,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90659;Gemüsecremesuppe;Suppe;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90302;Majonaise / Mayonnaise _ alle Sorten;Dip;A,C,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90303;Mojo verde;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90304;Pesto grün;Dip;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90305;Pesto rot;Dip;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90306;Remoladensauce;Dip;A,F,G,J,K,N;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90307;Salbeisahne;Dip;A,G,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90308;, verfeinert mit Crema Balsamico;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90309;Bagel_Veganer Käse;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90310;Bagel Putenbrust, Lollo Bionda, Tomate und Salatgurke;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90311;Salsa Chili_ alle Sorten;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90312;Sauce Tatare;Dip;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90313;Schnittlauch-Schmand;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90314;Senfsahne;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90315;Sourcream / Sour cream;Dip;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90316;Sun dried Tomato- Rosmary Dip;Dip;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90317;SweetChili Sauce;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90318;Tomaten Salsa;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90319;Tomaten Oliven Dip;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90320;Tzaziki;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90321;Zwiebelconfit;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90322;Entenbrust;Topping;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90323;Graved Lachs;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90324;Gebeizter Graved Lachs , Honig-Senf-Dip;Fisch;C,D,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90325;(sousvide gegartes Kalbsfleisch mit Thunfischsauce);Fisch;D,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90326;Matjes;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90327;Matjes Hausfrauenart;Fisch;A,C,D,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90328;Meeresfrüchte;Fisch;B,N;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90329;Pfeffermakrele;Fisch;D,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90330;Räucherlachs;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90331;Balsamico Dressing;Fisch;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90332;Räucherfischspezialtäten, Sahnemeerettich;Fisch;D,G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90333;Räucherlachs klassisch mit Sahnemeerrettich;Fisch;D,G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90334;Whisper Forellenfilet, Meerrettich;Fisch;D,G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90335;Schinkenvaration;Frühstück;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90336;Wurst Auswahl Frühstücksplatte;Frühstück;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90337;Brie mit Trauben;Frühstück;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90338;Salsa Verde;Frühstück;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90339;Coppa di Parma _ Ohne Allergene;Frühstück;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90340;ohne Allergene & Zusatzstoffe;Frühstück;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90341;Salatplatte / Frische bunte Marktsalate;Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90343;Butter für Buffet;Salatbüffet;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90344;Dressing _ Vinaigrette_Klares Dressing_allgemein;Salatbüffet;I,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90345;Dressing _ Cremiges Dressing _ allgemein;Salatbüffet;C,D,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90346;Topping (Tomaten, Gurken, Paprika, Karotten….etc);Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90347;Brotstulle Mailänder Salami;Salatbüffet;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90348;Gekochter Schinken;Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90349;Brotstulle Camembert;Salatbüffet;C;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90350;Babymozzarella;Salatbüffet;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90351;Fetakäse;Salatbüffet;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90352;Sellerie;Salatbüffet;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90353;Sojakeimlinge;Salatbüffet;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90354;Sojasprossen;Salatbüffet;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90355;von Schär;Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90356;Neu;Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90357;Balsamico Crema;Salatbüffet;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90358;Cheddarkäse;Salatbüffet;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90359;Zitronenecken;Salatbüffet;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90360;Apfeldressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90361;Belagen;Dressing;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90362;Avocado Kokosmilch Dresssing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90363;Italien Dressing;Dressing;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90364;American Dressing;Dressing;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90365;Buttermilch-Joghurt Dressing;Dressing;C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90366;Caesardressing;Dressing;C,D,G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90367;Hähnchenschnitzel /;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90368;Käsestreifen;Dressing;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90369;PAELLA Reispfanne alle Sorten;Dressing;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90370;Churros;Dressing;H,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90371;Honig Senf Dressing;Dressing;C,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90372;Halbe belegte Brötchen_ Rote Bete - Feta;Dressing;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90373;Rote Bete Falaffel mit Veganer Sour cream;Dressing;C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90374;Brotstulle Rote Bete Schafskäsecreme;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90375;Basilikumcreme mit Erdbeeren;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90376;Veganer Schwarzwald VEGAN;Dressing;C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90377;Limetten Dressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90378;Limetten Honig Dressing;Dressing;C,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90379;Limetten Minz Dressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90380;Linguine;Dressing;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90381;Preiselbeer Dressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90382;Radießchen-Meerrettich- Vinaigrette;Dressing;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90383;Sahnemeerrettichdressing;Dressing;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90384;ohne Allergene und Zusatzstoffe;Dressing;I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90385;Senf-Thymiandressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90386;Sojasauce;Dressing;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90387;Thaicurry Mango Sauce;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90388;Tomaten Rosmarin Dressing;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90389;Tomatenvinaigrette;Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90390;Zitusfruchtdressing (glutenfrei/vegan);Dressing;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90391;gekochte Eier;Dressing;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90392;Spirelli _ Alio olio e Peperoncino;Dressing;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90393;Lachsfilet in Würfel für Salat;Topping;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90394;Bacon;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90395;Croutons;Topping;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90396;Edamame mit Sesam und Chili;Topping;F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90397;Edamame mit Meersalz;Topping;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90398;Schupfnudelpfanne, vegetarisch;Topping;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90399;Hartkäse;Topping;C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90400;Jalapenos;Topping;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90401;Mozzarellaperlen in Pesto;Topping;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90402;Boeuf Boeurguignon mit;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90403;Parmesan;Topping;C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90404;Pecorino Käse;Topping;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90405;Peperoni;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90406;Preiselbeeren;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90407;Rindfleisch à part;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90408;schwarzer Sesam;Topping;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90409;Staudensellerie;Topping;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90410;Topping _ Microgreens;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90411;Topping Kerne;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90412;Belgische Zuckerwaffeln;Topping;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90413;Marinierte Pilze / Shiitake Pilz;Topping;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90414;mediterrane Oliven;Topping;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90415;Speck / Bacon;Gericht;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90416;, Grana Padano und Ruccola;Gericht;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90417;Hausgebackenes gemischtes Brotkonfekt;Gericht;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90418;Tortellini Ricotta Spinat;Gericht;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90419;Bolognese Sauce, vegan;Gericht;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90420;Gartengemüsesticks;Gericht;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90421;Baby Leaf mit;Gericht;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90422;Luftgetrocknete Räucherwürstchen;Gericht;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90423;Mediterraner Frischkäse-Dip;Gericht;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90424;Meersalz-Butter im Bauchglas;Gericht;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90425;Mini-Weizen-Dipstick;Gericht;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90426;Allgäuer Bergkäse im Bauchglas;Gericht;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90427;Zweierlei pikante Mini Muffins;Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90428;Bagel Avocado-Frischkäse;Bagel;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90429;Bulgur mit Auberginen;Bagel;A,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90430;Orientalischer Salat;Bagel;A,G,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90431;Bagel_Dutch Gouda;Bagel;A,G,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90432;Vitamin-Power-Kalbstafelspitz;Bagel;A,G,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90433;Bagel Hummus;Bagel;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90434;Bulgur, Paprika, Aubergine;Bagel;A,C,G,I,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90435;Bagel Putenbrust, Rucola;Bagel;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90436;Bagel_Räucherlachs mit Ei;Bagel;A,C,D,G,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90437;Bagel_Radieschenfrischkäse;Bagel;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90438;Party Brötchen mit Camembert;Bagel;A,G,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90439;Orientalischer Bulgursalat;Bagel;A,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90440;Baguette;Baguette;A,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90441;Kürbiscremesuppe VEGAN;Baguette;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90442;Baguette- Olive;Baguette;A,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90443;Tikka Hähnchensalat;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90444;Spitzkohlsalat mit Schmand;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90445;in Gemüsebrunoise;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90447;Mini Bio VITAL Laugengebäck;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90448;Veganer Crepe im Kürbismantel;Baguette;A,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90449;Emmentalerwürfel im Bauchglas;Baguette;A,C,G,H,I,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90450;Baguetteschnitte mit Roastbeef;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90451;3 fach sortiert VEGAN;Baguette;A,G,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90452;(Ei im Parmesan);Baguette;A,H,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90201;nur Schalenfrüchte als Allergen;Salat;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90202;Kartoffelsalat weiß;Salat;A,C,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90203;Mienudelsalat mit Hähnchen;Salat;A,C,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90204;Mexican Beef Barbeque Salat mit Paprika;Salat;A,F,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90205;Rindswurst alle Sorten / auch Feuerrindswurst;Salat;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90206;_Rinder-Pastrami , Cole Slaw und Pickle;Salat;A,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90207;Erdbeer-Rhabarberkompott_ohne Allergene und Zusatzstoffe;Salat;F,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90208;Honig Senf-Sauce _ Honey Mustard_ Graved Sauce / VEGAN;Salat;A,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90209;Orientalischer Bulgursalat mit sonnengereiften Tomaten;Salat;A,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90210;Tramezzinirollen;Salat;A,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90211;Octopus Salat, Fenchel;Salat;J,L,N;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90212;Limetten-Reissalat, Garnelen und Zuckerschoten;Salat;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90213;Linsen-Pilz-Salat, Ziegenkäse, Radicchio & Trauben in;Salat;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90214;Paprika Zucchini Salat mit Chili Sauce mariniert;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90215;Pastinaken Dattelsalat;Salat;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90216;Quinoasalat mit Apfel, rote Bete und Frühlingslauch;Salat;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90217;Quinoasalat auf Süßkartoffel mit Ahornsirup;Salat;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90218;Radieschensalat;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90219;Kräutersauce;Salat;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90220;Rindfleischsalat Thai Style mit geröstetem Sesam;Salat;A,C,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90221;Rindfleischsalat (Ingwer, Thaisp., Zuckerschote);Salat;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90222;Baby-Grünkohl-Salat mit eingelegtem Muskatkürbis;Salat;F,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90223;Rote Bete - Apfel - Salat mit zweierlei Sesam;Salat;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90224;gekräutertem Kartoffelstampf & Rahmkohlrabi;Salat;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90225;Rote Bete Salat;Salat;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90226;Romanaherzen mit Süßkartoffeln;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90227;Salat von Süßkartoffeln, Bohnen und Granatapfel;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90228;Romanesco-Salat mit gerösteten Pinienkerne;Salat;F,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90229;Römer Salat mit Kochschinken, Ei und Joghurt;Salat;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90230;Römersalat mit Schinkenstreifen und Ei;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90231;Römersalat mit Wisperforelle;Salat;D;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90232;Rucolasalat (Rote Bete und Walnüsse);Salat;H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90233;Rucolasalat (Pecorino, Balsamico);Salat;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90234;é pepe verole.;Salat;A,C,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90235;Spitzkohlsalat mit Kasseler;Salat;A,C,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90236;Salat, mediterran mit Käsestreifen;Salat;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90237;Salat von Ochsenherztomaten und gr. Spargel;Salat;C,D,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90238;Salat von Erbsen, Zuckerschoten und grünem Spargel;Salat;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90239;Römersalatherzen, Ziegenkäse-Crumbles, Erbsen;Salat;F,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90240;Halbe belegte Brötchen_ Tomate Mozzarella;Kalt;A,C,D,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90241;Tomate - Mozzarella mit Basilikumpesto;Salat;F,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90242;Salat von zweierlei Spargel in Vinaigrette;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90243;Rahmpolenta mit getrocktenen Tomaten;Salat;A,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90244;Salat von Black Tiger Garnelen auf Avocadocreme;Salat;B,G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90245;Salat von roten Linsen und Wurzelgemüsen;Salat;I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90246;Feldsalat mit Schafskäse und Balsamico-Dressing;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90247;Salat von asiatischen Nudeln und Wokgemüse;Salat;A,C,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90248;Handkäs mit Schnittlauchschmand;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90249;Salat von Edelpilzen in Sherry mit Vinaigrette;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90250;Sellerie Salat mit Schmand & Mayo_Walnuß;Salat;A,C,G,H,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90251;Bulgursalat_mit Hähnchen;Salat;F,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90252;Zitronengrasschaum.grünen Spargel_schwarzer Sesam;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90253;Spargel-Erdapfel-Salat;Salat;I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90254;Spinatsalat mit Körnermix und Mozzarella;Salat;G,J,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90255;Mini Törtchen Weiße Tomaten-Mousse;Salat;H,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90256;Spinatsalat Olive, Schafskäse;Salat;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90257;Hähnchenbrustfilet mit Rahmsauce und Pasta;Salat;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90258;Süßkartoffeln, Rosenkohl, Pastinake;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90259;Sprossensalat, Apfel Lauch;Salat;A,C,F,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90260;Shakarkanad_Süßkartoffel,Koriander;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90261;Vinaigrette;Salat;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90262;Tramezzinirollen mit Aroma-Kressen;Salat;A,F,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90263;Teriyakisalat (mit Soja);Salat;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90264;Thunfischsalat, rote Zwiebeln, Oliven;Salat;D,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90265;Tomatensalat Hirtenkäse;Salat;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90266;Tomaten Gurken Erdbeersalat mit Garnelen;Salat;B,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90267;Party Brötchen mit Grillgemüse, vegan;Salat;H,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90268;Tomaten Granatapfel- Salat;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90269;Waldpilzsalat;Salat;H,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90270;Wurstsalat;Salat;I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90271;Halbe belegte Brötchen_ Allgäuer Bergkäse;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90273;Wok-Nudelsalat mit Gemüse und Sprossen;Salat;A,C,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90274;Bagel Beef Pastrami, Senf-Harissa;Dip;A,C,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90275;Burgersauce;Dip;A,C,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90276;Burgersauce Vegan;Dip;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90277;Chutney Hot Mango _ Indische Art;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90278;Chutney Green Chili _ Indische Art;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90279;Cherrytomaten;Dip;A,C,G,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90280;Cream Cheese;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90281;Knabbergebäck alle Sorten;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90282;Dip Avocado-Wasabi;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90283;Menü;Dip;A,F,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90284;Halbe belegte Brötchen_ Mailänder Salami;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90285;Hähnchen +;Dip;A;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90286;Halbe belegte Brötchen_ Putenbrust;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90287;Brötchen mit Geflügelsalami;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90288;Cashewkerne, Balsamicodressing;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90289;Schinken und Coppa mit Melone;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90290;VEGANES Paprika Rauchtörtchen;Dip;C,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90291;VEGANES Paprika Rauchtörtchen Pumpernickel;Dip;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90292;Delice Avocado Limette-Senf;Dip;A,E,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90293;Delice Avocado mit Steckrüben;Dip;A,F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90294;Dip Joghurt-Minz;Dip;G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90295;Frankfurter Grüne Sauce;Dip;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90296;Feigensenf;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90297;Cookies_Schokolade;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90298;Gurken Tomaten Raita _ Indische Art;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90299;Hummus;Dip;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90300;Fruchtsaucen wie Mango;Dip;J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90301;Königsberger Klopse mit Kapern-Sauce;Dip;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90081;Laugenkastanien;Brot;A,G;;Bankett/Eigen;Im Ofen bei 180°C ca. 3 Min. aufbacken.
+90082;Krustenbrot Bergkäse;Brot;A,G;;Bankett/Eigen;Frisch aufschneiden, Käse muss Zimmertemperatur haben.
+90083;Krustenbrot Hummus;Brot;A,K;;Bankett/Eigen;Vegan, mit Kichererbsen garnieren.
+90084;Krustenbrot Serranoschinken;Brot;A;;Bankett/Eigen;Hauchdünn aufschneiden, auf Brot drapieren.
+90085;Partybrötchen Mix;Brot;A,G,K;;Bankett/Eigen;In Körben anrichten, verschiedene Sorten mischen.
+90086;Tomatenaufstrich;Dip;G;;Bankett/Eigen;Mit getrockneten Tomaten und Kräutern verfeinern.
+90087;Spundekäs Classic;Dip;G;;Bankett/Eigen;Kalt servieren, mit Salzbrezeln reichen.
+90088;Fladenbrot mit Sesam;Brot;A,K;;Bankett/Eigen;Kurz erwärmen, in Ecken schneiden.
+90089;Brotstulle Soja-Quark/Tomate;Brotstulle;A,F;;Bankett/Eigen;Vegan, mit frischer Kresse bestreuen.
+90090;Bagel Hummus & Avocado;Bagel;A,K;;Bankett/Eigen;Vegan, Bagel leicht toasten.
+90091;Trilogie von Noodlesticks;Fingerfood;A,F,K;;Bankett/Eigen;Asiatisch gewürzt, warm oder kalt servieren.
+90092;Matjesfilet "Hausfrauen Art";Fisch;D,G,L;;Bankett/Eigen;In Apfel-Zwiebel-Rahm einlegen.
+90093;Räucherlachs-Platte;Fisch;D,G;;Bankett/Eigen;Mit Sahnemeerrettich und Zitrone anrichten.
+90094;Käseauswahl "Region Frankfurt";Käse;G;;Bankett/Eigen;Mit Trauben und Feigensenf dekorieren.
+90095;Wurstplatte "Metzger Art";Fleisch;J,L;;Bankett/Eigen;Mit Essiggurken und Silberzwiebeln garnieren.
+90096;Mini-Frühlingsrollen Gemüse;Fingerfood;A,F;;Bankett/Eigen;Frittieren bei 170°C bis knusprig.
+90097;Scharfer Shrimps-Cocktail;Vorspeise;B,C,G;;Bankett/Eigen;In Gläsern anrichten, gekühlt servieren.
+90098;Geflügelsalat mit Mandarinen;Salat;C,G,L;;Bankett/Eigen;Klassisch cremig, kalt servieren.
+90099;Griechischer Joghurt Honig/Nuss;Dessert;G,H;;Bankett/Eigen;In Portionsgläsern anrichten.
+90100;Obstspieße der Saison;Dessert;;;Bankett/Eigen;Frisch stecken, mit Minze garnieren.
+90101;Hausgemachte Frikadellen (Kalb);Fleisch;A,C,J;;Bankett/Eigen;In der Pfanne braten, warm halten.
+90121;geröstetem Sesam,Exotic Salsa;Brotstulle;A,G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90122;Apfel Lauchsalat (vegan);Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90123;Algensalat mit Sesam, Shiitake Pilzen und Paprika;Salat;K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90124;Topping Samen (Chia-, Sesam-….);Salat;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90125;Auberginen-Bulgur-Salat mit Rauke und Tomaten;Salat;A,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90126;Bagel Sieben-Kräuterfrischkäse;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90127;Babyleaf Salat mit Tomate und Kürbiskernen;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90128;Bauernsalat;Salat;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90129;Aroma-Kressen_Caesar Chicken;Salat;F,K,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90130;Bauernsalat vegan;Salat;L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90131;Bunter Glasnudelsalat Sweet-Chilli;Salat;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90132;Bunter Salat vom Octopus mit Fenchel und Staudensellerie;Salat;I,J,L,N;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90133;Bunter Strauchtomatensalat mit Paprika, Gurke und Hirtenkäse;Salat;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90134;Bunter Quinoa-Salat mit Cranberries und Kaiserschoten;Salat;I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90135;Bunter Salat von grünem+weißem Spargel mit Erdbeeren;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90136;heller Biskuit mit Müslimix, Kürbiskernen & Preiselbeere;Salat;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90137;Olivenaufstrich;Salat;A,F,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90138;Spinatsalat mit Granatapfel, Walnuss, Sesam-Ingwer-Dressing;Salat;A,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90139;Zanderpraline im Wirsingblatt;Salat;A,G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90140;Shitake-Pomelo-Salat mit ger.Entenbrust;Salat;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90141;Blattsalatherzen mit Kürbiskernen und Honig-Senf-Dressing;Salat;C,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90142;Joghurt natur;Salat;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90143;Sauce, süß sauer für WOK und ASIA;Salat_NEU 2023;H,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90144;Bohnensalat;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90145;Caesar Salad mit Croutons und Parmesan;Salat;A,C,G;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90146;Champignon Eier Spargelsalat;Salat;A,C,G,I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90147;Chicoree Salat;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90148;Chinakohl Karottensalat;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90149;Cole slaw;Salat;C,G,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90150;CousCous Salat;Salat;A,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90151;Riesengarnele mit Sherryespuma,;Salat;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90152;Edamame-Quinoa-Salat mit Hähnchenbrustwürfeln;Salat;A,F,I;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90153;Ebly Salat mit Eismeergarnelen;Salat;A,B,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90154;Erbsensalat;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90155;Wildkräutersalat;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90156;Erdapfelsalat mit Radießchen und Frühlingslauch;Salat;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90157;Erbsensalat mit Caesar Dressing;Salat;C,D,G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90158;Rotkrautsalat Apfel, Preiselbeeren und geräuchter Entenbrust;Salat_NEU 2023;G,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90159;Vegane Currywurst;Salat_NEU 2023;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90160;Currywurst vom Schwein;Salat_NEU 2023;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90161;Mango-Papaya-Salat,;Halbe belegte Brötchen;A,I,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90162;Muffin Schoko von GENIUS_;Süßspeise;A,F,I,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90163;Mangosorbet_ VEGAN;Süßspeise;F,J,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90164;Halbe belegte Brötchen_ Holländischer Gouda;Brötchen;A,G,I,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90165;Frankfurter Kartoffelsalat;Salat;I,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90166;Gemüsesalat aus der Provence in feurigem Tomatensugo;Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90167;Gemüsesalat mit Nüssen und Sojabohnen;Salat;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90168;Glasnudelsalat;Salat;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90169;Waldorf Salat mit Walnuß;Salat;G,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90170;Graupensalat (Erbse, Minze, rote Zwiebeln);Salat;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90171;grüner Spargelsalat;Salat;J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90172;Hähnchen Salat mit Paprika und Oliven;Salat;F,J,L;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90173;Hähnchen Bohnensalat;Salat;F;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90174;Herbst
+90102;Kartoffel-Gurken-Salat;Salat;J,L;;Bankett/Eigen;Schlotzig anmachen, zimmerwarm servieren.
+90103;Blattsalat-Variation;Salat;;;Bankett/Eigen;Dressing separat reichen.
+90104;Balsamico-Vinaigrette;Sauce;L;;Bankett/Eigen;Gut aufemulgieren vor dem Servieren.
+90105;Joghurt-Kräuter-Dressing;Sauce;G,M;;Bankett/Eigen;Kühl lagern, frisch rühren.
+90106;Hähnchenbrust "Saltimbocca";Geflügel;G,L;;Bankett/Eigen;Mit Salbei und Schinken, garen bis KT 72°C.
+90107;Lammrücken unter Kräuterkruste;Fleisch;A,G,J;;Bankett/Eigen;Im Ofen rosa garen bis KT 54°C.
+90108;Zanderfilet auf Rahm-Sauerkraut;Fisch;D,G
+90041;Rinderkraftbrühe "Classic";Suppe;L;;Bankett/Eigen;Erhitzen auf ca. 85°C. Nicht kochen lassen.
+90042;Kürbis-Ingwer-Suppe;Suppe;G,L;;Bankett/Eigen;Erhitzen auf ca. 85°C. Mit Kürbiskernen garnieren.
+90043;Tomatencremesuppe mit Basilikum;Suppe;G,L;;Bankett/Eigen;Heiß servieren, mit Sahnehaube verfeinern.
+90044;Kartoffel-Lauch-Suppe;Suppe;G,L;;Bankett/Eigen;Erhitzen und mit Croutons anreichen.
+90045;Hähnchenbrust in Curry-Rahm;Hauptspeise;G,I;;Bankett/Eigen;Im Kombidämpfer bei 90°C regenerieren.
+90046;Rinderbraten "Hausfrauen Art";Fleisch;I,J,L;;Bankett/Eigen;In der Sauce bei 95°C sanft erhitzen.
+90047;Schweinefilet im Speckmantel;Fleisch;G;;Bankett/Eigen;Regenerieren im Ofen bei 140°C bis KT 62°C.
+90048;Lachsfilet vom Blech;Fisch;D,G;;Bankett/Eigen;Im Ofen bei 130°C ca. 12 Min. glasig garen.
+90049;Vegetarische Lasagne;Veggie;A,G,I;;Bankett/Eigen;Überbacken bei 180°C ca. 15 Min.
+90050;Penne mit Steinpilzrahm;Pasta;A,G,L;;Bankett/Eigen;Pasta al dente kochen, in Sauce schwenken.
+90051;Kartoffelgratin "Dauphinois";Beilage;G;;Bankett/Eigen;Im Ofen bei 160°C goldbraun backen.
+90052;Butterspätzle;Beilage;A,C,G;;Bankett/Eigen;In der Pfanne kurz in Butter schwenken.
+90053;Wildreismischung;Beilage;;;Bankett/Eigen;Im Dämpfer bei 100°C regenerieren.
+90054;Apfelrotkohl;Beilage;L;;Bankett/Eigen;Langsam im Topf erhitzen.
+90055;Speckbohnenbündchen;Beilage;;;Bankett/Eigen;Im Ofen bei 160°C ca. 8 Min. erhitzen.
+90056;Mousse au Chocolat dunkel;Dessert;C,G;;Bankett/Eigen;Kalt anrichten, mit Beeren garnieren.
+90057;Panna Cotta mit Waldbeeren;Dessert;G;;Bankett/Eigen;Gekühlt servieren.
+90058;Obstsalat "Exotic";Dessert;;;Bankett/Eigen;Frisch geschnitten, gekühlt servieren.
+90059;Kaiserschmarrn mit Zwetschgenröster;Dessert;A,C,G;;Bankett/Eigen;In der Pfanne regenerieren, mit Puderzucker bestreuen.
+90060;Rote Grütze mit Vanillesauce;Dessert;G;;Bankett/Eigen;Kalt servieren.
+90061;Putengeschnetzeltes "Zürcher Art";Geflügel;G,L;;Bankett/Eigen;In Rahmsauce bei 90°C erhitzen.
+90062;Rindergulasch "Ungarisch";Fleisch;A,I,L;;Bankett/Eigen;Langsam im Topf erhitzen bis Fleisch zart ist.
+90063;Gebratenes Zanderfilet;Fisch;A,D;;Bankett/Eigen;Auf der Hautseite kurz nachbraten.
+90064;Gemüse-Couscous;Veggie;A,I;;Bankett/Eigen;Heiß im Dämpfer regenerieren.
+90065;Rosmarinkartoffeln;Beilage;;;Bankett/Eigen;Im Ofen bei 180°C knusprig backen.
+90066;Ratatouille-Gemüse;Veggie;L;;Bankett/Eigen;In der Pfanne oder im Dämpfer bei 90°C erhitzen.
+90067;Tiramisu "Classic";Dessert;A,C,G;;Bankett/Eigen;Gekühlt servieren, frisch mit Kakao bestäuben.
+90068;Mini-Windbeutel Sahne-Füllung;Gebäck;A,C,G;;Bankett/Eigen;Vorsichtig auftauen und kalt servieren.
+90069;Quiche mit Lauch und Speck;Fingerfood;A,C,G;;Bankett/Eigen;Heiß servieren, ca. 10 Min. bei 170°C.
+90070;Gefüllte Weinblätter (Dolmades);Vorspeise;;;Bankett/Eigen;Kalt oder zimmerwarm servieren.
+90071;Hummus "Natur";Dip;K;;Bankett/Eigen;Mit Olivenöl und Paprika beträufeln.
+90072;Baba Ghanoush (Auberginen-Dip);Dip;K;;Bankett/Eigen;Kalt servieren, passt gut zu Fladenbrot.
+90073;Falafel-Bällchen;Veggie;K;;Bankett/Eigen;Kurz frittieren oder im Ofen bei 180°C erhitzen.
+90074;Griechischer Bauernsalat;Salat;G;;Bankett/Eigen;Frisch mit Feta und Oliven anrichten.
+90075;Couscous-Salat "Oriental";Salat;A,I;;Bankett/Eigen;Gut durchgezogen kalt servieren.
+90076;Nudelsalat "Italienisch";Salat;A,G,L;;Bankett/Eigen;Mit Pesto und Kirschtomaten mischen.
+90077;Kartoffelsalat "Hessisch";Salat;J,L;;Bankett/Eigen;Mit Essig, Öl und Zwiebeln anmachen.
+90078;Krautsalat mit Speck;Salat;L;;Bankett/Eigen;Gut gekühlt servieren.
+90079;Wrap mit Hähnchen und Curry;Snack;A,G,L;;Bankett/Eigen;Kalt servieren oder kurz kontaktgrillen.
+90080;Wrap mit gegrilltem Gemüse;Snack;A,G;;Bankett/Eigen;Vegetarische Option, kalt servieren.
+90001;Antipasti mit Pesto;Fingerfood;G,H;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90002;Antipasti in Rosmarinöl gebraten;Fingerfood;;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90003;Geflügelspieß mit Chilisalsa;Fingerfood;A,F,K;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90004;Eisbeinpraline mit Senfgelee;Fingerfood;A,J;;Bankett/Eigen;Nach Rezeptur herstellen und anrichten.
+90005;Toskanischer Gemüseeintopf;Suppe;L;;Bankett/Eigen;Erhitzen auf 85 Grad, mit Raviolini servieren.
+90006;Joghurt Hafer Crumble;Dessert;A,G;;Bankett/Eigen;Kalt servieren.
+90007;Kräuterschmand;Dip;G,M;;Bankett/Eigen;Kalt rühren und abschmecken.
+90008;Limonenschmand;Dip;G;;Bankett/Eigen;Kalt rühren und abschmecken.
+90009;Meerrettichcreme;Dip;C,G,J,L;;Bankett/Eigen;Kalt rühren und abschmecken.
+90010;Obazda;Dip;G;;Bankett/Eigen;Mit Zwiebelringen und Paprika garnieren.
+90011;Baguette (Weizen, Nuss, Roggen);Brot;A,H;;Bankett/Eigen;Aufbacken bei 180°C ca. 5 Min.
+90012;Radieschenfrischkäse;Dip;G;;Bankett/Eigen;Kalt rühren und mit Kresse bestreuen.
+90013;Spundekäs mit Rosenpaprika;Dip;G;;Bankett/Eigen;Hessische Spezialität, kalt servieren.
+90014;Wasabicreme;Dip;C,G,J;;Bankett/Eigen;Scharf abschmecken, kalt servieren.
+90015;Brotstulle Pastrami;Brotstulle;A,J;;Bankett/Eigen;Brot rösten, reichlich belegen.
+90016;Brotstulle Putenbrust;Brotstulle;A,G;;Bankett/Eigen;Frisch belegen mit Salat und Remoulade.
+90017;Brotstulle Tomate-Mozzarella;Brotstulle;A,G;;Bankett/Eigen;Mit Pesto bestreichen und belegen.
+90018;Pitabrot;Brot;A;;Bankett/Eigen;Kurz antoasten vor dem Servieren.
+90019;Bagel Räucherlachs;Bagel;A,C,D,G,J;;Bankett/Eigen;Bagel aufschneiden, toasten, mit Meerrettich belegen.
+90020;Vegane Mini-Frühlingsrolle;Fingerfood;A,F,L;;Bankett/Eigen;Frittieren bei 170°C bis goldbraun.
+90021;Hähnchenbrust natur;Hauptspeise;L;;Bankett/Eigen;Garen bis KT 72°C.
+90022;Fleischkäse (Kalb);Fleisch;L,J;;Bankett/Eigen;Im Ofen regenerieren bei 140°C.
+90023;Rhabarberkompott mit Erdbeeren;Dessert;;;Bankett/Eigen;Kalt servieren, evtl. Minze garnieren.
+90024;Burrito mit Pulled Pork;Hauptspeise;A,G,L;;Bankett/Eigen;In Folie regenerieren, warm servieren.
+90025;Currysauce für Wurst;Sauce;I,J;;Bankett/Eigen;Erhitzen und heiß über die Wurst geben.
+90026;Schokoladenmousse weiß;Dessert;C,G;;Bankett/Eigen;Mindestens 4h kühlen vor dem Servieren.
+90027;Pfefferbeißer;Snack;J,L;2,3;Bankett/Eigen;Direkt servieren.
+90028;Mini-Frikadelle Klassik;Fingerfood;A,C,J;;Bankett/Eigen;Warm oder kalt servieren.
+90029;Garnelenspieß Kräutermarinade;Fingerfood;B,G;;Bankett/Eigen;Kurz anbraten bis glasig.
+90030;Tomaten-Mozzarella-Spieß;Fingerfood;G;;Bankett/Eigen;Mit frischem Basilikum anrichten.
+90031;Lachs-Spinat-Rolle;Fingerfood;A,C,D,G;;Bankett/Eigen;Kalt in Scheiben schneiden.
+90032;Vegetarische Mini-Quiche;Fingerfood;A,C,G;;Bankett/Eigen;Backen bei 170°C ca. 10 Min.
+90033;Datteln im Speckmantel;Fingerfood;;;Bankett/Eigen;Knusprig braten oder backen.
+90034;Ziegenkäse-Honig-Crostini;Fingerfood;A,G;;Bankett/Eigen;Kurz überbacken bis der Käse schmilzt.
+90035;Melone mit Parmaschinken;Vorspeise;;;Bankett/Eigen;Gekühlt servieren.
+90036;Rindertatar auf Pumpernickel;Vorspeise;A,J;;Bankett/Eigen;Frisch zubereiten und sofort servieren.
+90037;Vitello Tonnato Rolle;Vorspeise;C,D,G,J;;Bankett/Eigen;Dünn aufschneiden, Sauce darüber geben.
+90038;Gefüllte Champignons;Vorspeise;G;;Bankett/Eigen;Backen bei 180°C ca. 12 Min.
+90039;Falafel mit Hummus;Fingerfood;K;;Bankett/Eigen;Frittieren und warm servieren.
+90040;Hähnchen-Sate mit Erdnusssauce;Fingerfood;E,F;;Bankett/Eigen;Heiß grillen, Sauce separat reichen.41075;Cube von Thunfischmousse;appetizer;D,G;;Seubert;Auftauen und bei ca. 8°C kalt servieren.
 41057;Mini-Carré von Ente süß-sauer;appetizer;A,F,L;;Seubert;Auftauen und bei ca. 8°C kalt servieren.
 41056;Mini-Dreieck Räucherlachs Frischkäse;appetizer;A,D,G;;Seubert;Auftauen und bei ca. 8°C kalt servieren.
 43037;Cocktailgebäck 4 Sorten (roh);appetizer;A,C,G;;Seubert;Backen bei 180°C ca. 15-18 Min. bis goldbraun.
@@ -114,18 +789,18 @@ id;name;category;allergenCodes;additiveCodes;supplier;cookingInstruction
 42706;Piccata vom Seelachsfilet;fish;C,D,G;;Seubert;Braten in der Pfanne ca. 8 Min. bis KT 55°C.
 18100;Forellenstrudel;fish;A,D,G;;Seubert;Backen im Ofen bei 180°C ca. 15 Min. bis KT 55°C.
 22105;Apfelkücherl im Backteig;dessert;A,C,G;;Seubert;Regenerieren im Ofen bei 160°C ca. 8 Min.
-41090;Delice von Entenbrust mit Orangen-Spiegel;appetizer;;1,2,3;Seubert;Entenmousse mit Orangengelee, gegart. Auftauen und bei 8°C servieren.
+41090;Delice von Entenbrust;appetizer;;1,2,3;Seubert;Entenmousse mit Orangengelee. Auftauen und bei 8°C servieren.
 41060;Stücke von Gravedlachstorte;appetizer;D;2;Seubert;Schon geschnitten. Auftauen und bei 8°C kalt servieren.
-41049;Praline Pulled Duck in Pankopanade;appetizer;A;4;Seubert;Im Kombidämpfer bei 180°C ca. 12 Min goldbraun backen bis KT 72°C.
-19575;Nudelrolle mit Kürbis und Ricotta;veggie;A,C,G;;Seubert;In Salbeibutter regenerieren im Ofen bei 140°C ca. 10 Min.
-29300;Hähnchenbrustschnitzel Kürbiskernpanade;poultry;A,C;4;Seubert;Im Ofen bei 160°C ca. 15 Min bis KT 72°C erhitzen.
-12090;Senner-Hütten Cordon Bleu;meat;A,C,G;2,8;Seubert;Backen im Ofen bei 170°C ca. 20 Min garen bis KT 72°C.
-41498;Hirschpflanzerl ohne Speck;meat;;4;Seubert;Regenerieren im Ofen bei 160°C ca. 12 Min bis KT 65°C.
+41049;Praline Pulled Duck;appetizer;A;4;Seubert;Backen bei 180°C ca. 12 Min goldbraun bis KT 72°C.
+19575;Nudelrolle Kürbis Ricotta;veggie;A,C,G;;Seubert;Regenerieren im Ofen bei 140°C ca. 10 Min.
+29300;Hähnchen-Schnitzel Kürbiskern;poultry;A,C;4;Seubert;Im Ofen bei 160°C ca. 15 Min bis KT 72°C erhitzen.
+12090;Senner-Hütten Cordon Bleu;meat;A,C,G;2,8;Seubert;Backen bei 170°C ca. 20 Min garen bis KT 72°C.
+41498;Hirschpflanzerl;meat;;4;Seubert;Regenerieren im Ofen bei 160°C ca. 12 Min bis KT 65°C.
 41451;Königsberger Klopse;meat;A,C,G,J;4,8;Seubert;In Kapernsauce bei 90°C ca. 15 Min erhitzen bis KT 72°C.
-17157;Hirschrückensteak Waldpilzkruste;meat;;;Seubert;Backen im Ofen bei 180°C ca. 10 Min garen bis KT 55°C.
-12240;Schweinelenden-Medaillon Pfifferlinge;meat;G,L;2,8;Seubert;Backen im Ofen bei 160°C ca. 12 Min garen bis KT 62°C.
-32060;1/2 Grillente entbeint;poultry;;2,4;Seubert;Knusprig regenerieren im Ofen bei 200°C ca. 15 Min bis KT 75°C.
-22173;Christstollenparfait Mandelknusper;dessert;C,G,H;1;Seubert;Zum Selberportionieren. Tiefgekühlt bei -18°C servieren.
-22030;Schokoladen Souffle;dessert;A,C,G;;Seubert;Backen im Ofen bei 180°C ca. 10 Min (flüssiger Kern).
-22158;Baumkuchenterrine weiße Mokkamousse;dessert;A,C,G;1;Seubert;Vorsichtig auftauen und bei 8°C kalt servieren.
-22138;Tiramisu von der Pflaume;dessert;A,C,G,L;1,2;Seubert;Winterliches Dessert. Auftauen und bei 8°C servieren.
+17157;Hirschrückensteak Waldpilze;meat;;;Seubert;Backen im Ofen bei 180°C ca. 10 Min garen bis KT 55°C.
+12240;Lendenmedaillon Pfifferlinge;meat;G,L;2,8;Seubert;Backen im Ofen bei 160°C ca. 12 Min garen bis KT 62°C.
+32060;1/2 Grillente entbeint;poultry;;2,4;Seubert;Regenerieren im Ofen bei 200°C ca. 15 Min bis KT 75°C.
+22173;Christstollenparfait;dessert;C,G,H;1;Seubert;Tiefgekühlt bei -18°C servieren.
+22030;Schokoladen Souffle;dessert;A,C,G;;Seubert;Backen im Ofen bei 180°C ca. 10 Min.
+22158;Baumkuchenterrine;dessert;A,C,G;1;Seubert;Vorsichtig auftauen und bei 8°C kalt servieren.
+22138;Tiramisu Pflaume;dessert;A,C,G,L;1,2;Seubert;Auftauen und bei 8°C servieren.
